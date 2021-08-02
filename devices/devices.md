@@ -2,6 +2,7 @@
 
 ## ASUS
 - ZenFone Max Pro M2 (XO1BD)
+- Zenfone Max Pro M1 (X00TD)
 
 ## Lenovo
 - Lenovo Zuk Z2 Plus (z2_plus)
