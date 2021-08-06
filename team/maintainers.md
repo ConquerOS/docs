@@ -56,3 +56,6 @@
 
 ## Triono
 - Maintained Devices: Redmi Note 4/4X
+
+## Sai Kishan
+- Maintained Devices: Realme X.

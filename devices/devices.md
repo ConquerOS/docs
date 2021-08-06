@@ -11,7 +11,8 @@
 - POCO X3 NFC (surya/karna)
 - POCO X3 Pro (vayu/bhima)
 
-## Realme 
+## Realme
+- Realme X (RMX1901)
 - Realme XT (RMX1921)
 
 ## Redmi
