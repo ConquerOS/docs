@@ -62,3 +62,6 @@
 
 ## Jamie H
 - Maintained Devices: Redmi SDM720G Series
+
+## sergoops
+- Maintained Devices: Realme X2

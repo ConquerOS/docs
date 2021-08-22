@@ -13,6 +13,7 @@
 
 ## Realme
 - Realme 5/5i/5s (Trinket)
+- Realme X2 (X2)
 
 ## Redmi
 - Redmi 4X (santoni)
