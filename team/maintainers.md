@@ -68,3 +68,6 @@
 
 ## Ahmed Tohamy
 - Maintained Devices: Xiaomi Mi 10T / 10T Pro
+
+## Rahul K
+- Maintained Devices: Redmi 5 Plus / Redmi Note 5
