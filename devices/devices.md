@@ -10,6 +10,7 @@
 - POCO F1 (beryllium)
 - POCO X3 NFC (surya/karna)
 - POCO X3 Pro (vayu/bhima)
+- POCO F3 (Alioth)
 
 ## Realme
 - Realme 5/5i/5s (Trinket)

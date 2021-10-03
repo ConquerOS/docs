@@ -68,3 +68,6 @@
 
 ## Ahmed Tohamy
 - Maintained Devices: Xiaomi Mi 10T / 10T Pro
+
+## Reza Bagas Rifaldy
+- Maintained Devices: Poco F3.
